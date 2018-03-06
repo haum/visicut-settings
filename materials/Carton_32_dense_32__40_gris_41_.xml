@@ -1,0 +1,9 @@
+<material>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#b7b7b7</color>
+  <name>Carton dense (gris)</name>
+  <materialThicknesses>
+    <float>2.5</float>
+  </materialThicknesses>
+</material>
