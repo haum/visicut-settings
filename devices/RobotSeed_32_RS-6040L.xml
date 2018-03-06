@@ -38,7 +38,7 @@ Please:
     <bedHeight>400.0</bedHeight>
     <rasterPadding>0.0</rasterPadding>
   </laserCutter>
-  <cameraURL>http://lasercut/webcam/?action=stream</cameraURL>
+  <cameraURL></cameraURL>
   <cameraTiming>0</cameraTiming>
   <projectorTiming>0</projectorTiming>
   <projectorWidth>0</projectorWidth>
