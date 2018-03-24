@@ -5,6 +5,7 @@
   <color>#ffd500</color>
   <name>MDF</name>
   <materialThicknesses>
+    <float>2.5</float>
     <float>3.0</float>
   </materialThicknesses>
 </material>
