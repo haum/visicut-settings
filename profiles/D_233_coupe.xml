@@ -1,0 +1,9 @@
+<vectorProfile>
+  <DPI>500.0</DPI>
+  <description>Découpe entièrement le matériau</description>
+  <name>Découpe</name>
+  <orderStrategy>INNER_FIRST</orderStrategy>
+  <useOutline>false</useOutline>
+  <isCut>true</isCut>
+  <width>0.7</width>
+</vectorProfile>

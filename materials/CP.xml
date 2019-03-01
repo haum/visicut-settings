@@ -1,0 +1,10 @@
+<material>
+  <description>Contre Plaqué</description>
+  <engraveColor>#b64040</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#ff9200</color>
+  <name>CP</name>
+  <materialThicknesses>
+    <float>5.0</float>
+  </materialThicknesses>
+</material>

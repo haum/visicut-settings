@@ -1,0 +1,12 @@
+<material>
+  <description>MDF</description>
+  <engraveColor>#00ff01</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#ffd500</color>
+  <name>MDF</name>
+  <materialThicknesses>
+    <float>2.5</float>
+    <float>3.0</float>
+    <float>6.0</float>
+  </materialThicknesses>
+</material>
