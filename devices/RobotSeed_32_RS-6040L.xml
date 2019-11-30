@@ -1,10 +1,12 @@
-<laserDevice>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<laserDevice version="0">
   <originBottomLeft>true</originBottomLeft>
-  <jobSentText>Job was sent as &apos;$jobname&apos;
+  <jobSentText>Job was sent as '$jobname'
 Please:
 -Close the lid
 -Turn on the Ventilation
--And press &apos;start&apos; on the Lasercutter $name</jobSentText>
+-And press 'start' on the Lasercutter $name</jobSentText>
   <jobPrefix>visicut </jobPrefix>
   <laserCutter class="com.t_oster.liblasercut.drivers.SmoothieBoard">
     <lineend>CRLF</lineend>

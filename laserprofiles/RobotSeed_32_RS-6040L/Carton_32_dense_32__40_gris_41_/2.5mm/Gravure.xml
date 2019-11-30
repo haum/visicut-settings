@@ -1,4 +1,6 @@
-<linked-list>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<linked-list version="0.0.0.0">
   <com.t__oster.liblasercut.FloatPowerSpeedFocusProperty>
     <power>30.0</power>
     <speed>50.0</speed>

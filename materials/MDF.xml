@@ -1,4 +1,6 @@
-<material>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
   <description>MDF</description>
   <engraveColor>#00ff01</engraveColor>
   <cutColor>#ff0000</cutColor>
