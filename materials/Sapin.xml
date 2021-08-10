@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
+  <description>Planche de pin lamélé collé</description>
+  <engraveColor>#a14c18</engraveColor>
+  <cutColor>#69811c</cutColor>
+  <color>#d7c536</color>
+  <name>Sapin</name>
+  <materialThicknesses>
+    <float>18.0</float>
+  </materialThicknesses>
+</material>
